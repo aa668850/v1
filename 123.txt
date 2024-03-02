@@ -1,5 +1,6 @@
-Hello world
-Hi
-123
-456
-Sdhwidw
+hello world
+git satus
+git add .
+git commit -m "v1"
+hi
+ vddf
